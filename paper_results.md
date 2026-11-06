@@ -21,7 +21,7 @@ python -m extensions.bates
 python -m barrier.barrier_model
 ```
 
-Heston, Bates and the barrier model use 100,000-particle filters and take several hours each.
+The paper's results were produced with Python 3.14 and the package versions pinned in requirements.txt. Heston, Bates and the barrier model use 100,000-particle filters and take several hours each.
 
 **Table 1: Distributional Moments and Normality Test**
 

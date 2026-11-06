@@ -1,5 +1,5 @@
-numpy
-pandas
-scipy
-statsmodels
-yfinance
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+statsmodels==0.15.0
+yfinance==1.7.0
